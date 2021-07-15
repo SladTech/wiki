@@ -19,4 +19,4 @@ Pour télécharger des autocollants, vous devez posséder le serveur ou être mo
     
 Emoji associé : Choisissez l'emoji le plus similaire à votre autocollant. Cela permet à tous les autocollants d'apparaître dans des endroits comme les suggestions d'autocollants ou la recherche, ce qui les rend plus faciles à trouver et à utiliser.
 
-[Souces](https://blog.discord.com/unleash-your-creativity-with-stickers-on-discord-99363194871)
+[Souces](https://blog.discord.com/unleash-your-creativity-with-stickers-on-discord-99363194871).
